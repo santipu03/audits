@@ -11,6 +11,8 @@ To contact me, [**@santipu_**](https://twitter.com/santipu_) on twitter
 |  Ethereum Credit Guild | _?_     | December 2023 | Code4rena      |  _Pending_              |
 |  Curves                | _?_     | January 2024  | Code4rena      |  _Pending_                  |
 
+<br><br>
+
 ## 🐞 Bug Bounties
 
 | Protocol               | Date          | Severity    | Reward (USD)   | Report  |
@@ -19,6 +21,8 @@ To contact me, [**@santipu_**](https://twitter.com/santipu_) on twitter
 |  [Umami Finance](https://defillama.com/protocol/umami-finance)    | January 2024  | Medium  | 3.5k| _private_         |
 |  [Umami Finance](https://defillama.com/protocol/umami-finance)    | January 2024  | High  | 3.5k| _private_         |
 |  [Vaultka](https://defillama.com/protocol/vaultka)                | January 2024  | Medium  | 2k|_private_         |
+
+<br><br>
 
 ## 👥 Team Audits
 
