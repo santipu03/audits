@@ -1,5 +1,6 @@
 # Security Portfolio - Santipu
-Smart Contract Audits
+
+To contact me, [**@santipu_**](https://twitter.com/santipu_) on twitter
 
 ## 👥 Team Audits
 
